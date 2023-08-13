@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO DOs.md",
+                "file": "ExampleFile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO DOs.md",
+                "file": "ExampleFile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO DOs.md"
+                "file": "ExampleFile.md"
               }
             }
           }
@@ -153,15 +153,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c52330ccd408d32",
+  "active": "ea0e5b99569fcbd9",
   "lastOpenFiles": [
+    "TO DOs.md",
+    "ExampleFile.md",
     "Latest Modifications.md",
     "Project List.md",
     "ComplexNetworks_Sociophysics_Vault",
     "Daily Notes/2023-08-13.md",
     "Daily Notes/2023-08-16.md",
     "LCD/Language Competition Dynamics (LCD).md",
-    "TO DOs.md",
     "Untitled.canvas",
     "Daily Notes/13-08-2023.md",
     "Daily Notes",

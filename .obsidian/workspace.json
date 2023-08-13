@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "f18a9e811d0b9acc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b6e124bc09b365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c52330ccd408d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DOs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1c843439c5d5d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd21e59196785026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea0e5b99569fcbd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e8c868e36dd91b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7a111e937ffd17a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "c8ac05c8296352c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "47d655247868aeef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2944768f12e4a25",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "46ac7cd18903f54d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TO DOs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e6f8dd75db6a4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TO DOs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcfd38e860d12748",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "243d843283b5fc00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TO DOs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c52330ccd408d32",
+  "lastOpenFiles": [
+    "Latest Modifications.md",
+    "Project List.md",
+    "ComplexNetworks_Sociophysics_Vault",
+    "Daily Notes/2023-08-13.md",
+    "Daily Notes/2023-08-16.md",
+    "LCD/Language Competition Dynamics (LCD).md",
+    "TO DOs.md",
+    "Untitled.canvas",
+    "Daily Notes/13-08-2023.md",
+    "Daily Notes",
+    "VM/Voter Model (VM).md",
+    "VM/VM - Visualization of the Graphs.md",
+    "VM/VM - Analysis of the graph(s).md",
+    "VM/VM - Application to the real world.md",
+    "VM/VM - Change of parameters.md",
+    "VM/VM - Data and Model Analysis.md",
+    "Reading.md",
+    "Timetable.md",
+    "ADM/ADM - Visualization of the Graphs.md",
+    "ADM/ADM - Data and Model Analysis.md",
+    "ADM/ADM - Change of parameters.md",
+    "ADM/Axelrod Dissemination Model (ADM).md",
+    "ADM/ADM - Application to the real world.md",
+    "ADM/ADM - Analysis of the graph(s).md",
+    "LCD/LCD - Change of parameters.md",
+    "LCD/LCD - Data and Model Analysis.md",
+    "LCD/LCD - Visualization of the Graphs.md",
+    "LCD/LCD - Application to the real world.md",
+    "LCD",
+    "ADM",
+    "VM",
+    "Elements",
+    "Concepts",
+    "Graphs",
+    "preamble.sty"
+  ]
+}

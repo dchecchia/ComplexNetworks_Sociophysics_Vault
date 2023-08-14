@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b600bd72794ec4",
+        "id": "a2884675ca667ede",
         "type": "tabs",
         "children": [
           {
-            "id": "a31d4cd3ec90f211",
+            "id": "3ef8d691946f8dd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,37 +154,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a31d4cd3ec90f211",
+  "active": "3ef8d691946f8dd8",
   "lastOpenFiles": [
-    "ExampleFile.md",
-    "Latest Modifications.md",
-    "TO DOs.md",
-    "Project List.md",
-    "ComplexNetworks_Sociophysics_Vault",
-    "Daily Notes/2023-08-13.md",
-    "Daily Notes/2023-08-16.md",
-    "LCD/Language Competition Dynamics (LCD).md",
-    "Untitled.canvas",
-    "Daily Notes/13-08-2023.md",
-    "Daily Notes",
-    "VM/Voter Model (VM).md",
-    "VM/VM - Visualization of the Graphs.md",
+    "VM/VM - Data and Model Analysis.md",
+    "Daily Notes/2023-08-14.md",
     "VM/VM - Analysis of the graph(s).md",
     "VM/VM - Application to the real world.md",
     "VM/VM - Change of parameters.md",
-    "VM/VM - Data and Model Analysis.md",
+    "VM/VM - Visualization of the Graphs.md",
+    "VM/Voter Model (VM).md",
+    "TO DOs.md",
+    "Latest Modifications.md",
+    "Project List.md",
+    "ExampleFile.md",
+    "LCD/Language Competition Dynamics (LCD).md",
+    "ADM/Axelrod Dissemination Model (ADM).md",
+    "ComplexNetworks_Sociophysics_Vault",
+    "Daily Notes/2023-08-13.md",
+    "Daily Notes/2023-08-16.md",
+    "Untitled.canvas",
+    "Daily Notes/13-08-2023.md",
+    "Daily Notes",
     "Reading.md",
     "Timetable.md",
     "ADM/ADM - Visualization of the Graphs.md",
     "ADM/ADM - Data and Model Analysis.md",
     "ADM/ADM - Change of parameters.md",
-    "ADM/Axelrod Dissemination Model (ADM).md",
     "ADM/ADM - Application to the real world.md",
     "ADM/ADM - Analysis of the graph(s).md",
     "LCD/LCD - Change of parameters.md",
     "LCD/LCD - Data and Model Analysis.md",
     "LCD/LCD - Visualization of the Graphs.md",
-    "LCD/LCD - Application to the real world.md",
     "LCD",
     "ADM",
     "VM",
